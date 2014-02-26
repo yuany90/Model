@@ -1,0 +1,1 @@
+jar -cf objLoader.jar utils/*.class com/obj/*.class com/obj/parser/*.class com/obj/parser/obj/*.class com/obj/parser/mtl/*.class
