@@ -9,5 +9,5 @@ And I tests the new one on several obj files and it works prefectly.
 
 Example
 -------
-<img src = 'https://github.com/yuany90/Model/blob/master/Capture.PNG?raw=true'/>
-<img src = 'https://github.com/yuany90/Model/blob/master/Capture2.PNG?raw=true'/>
+<img src = 'https://github.com/yuany90/Model/blob/master/Capture.PNG?raw=true' width = '400'/>
+<img src = 'https://github.com/yuany90/Model/blob/master/Capture2.PNG?raw=true' width = '400'/>
